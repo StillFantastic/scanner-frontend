@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.myLineHighlight {
+  background-color: rgba(255, 0, 0, 0.3);
+}
